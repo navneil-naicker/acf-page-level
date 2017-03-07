@@ -1,2 +1,2 @@
-# acf-page-level
-Sometimes you want to show the field groups based on the page level right? Well here you go. Enjoy!
+ACF Page Level
+You might be having a complex project where you have to show the field groups based on the page level. Thanks to ACF (Advanced Custom Fields), there is a way to make our work less painful. This plugin is very lightweight and adds functionality to show field groups depending on the page level. You can also set the page ancestor to more specific.
